@@ -21,7 +21,7 @@ Here's the updated project structure section of the README, including all the TS
 ```markdown
 ## Estrutura de Arquivos
 
-```
+
 
 online-coding-trainer/
 ├── app/
@@ -46,7 +46,7 @@ online-coding-trainer/
 ├── README.md
 ├── tailwind.config.js
 └── tsconfig.json
-
+```
 ## Instalação e Execução
 
 1. Clone o repositório:
